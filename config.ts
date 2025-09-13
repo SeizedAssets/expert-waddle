@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'expert-waddle.seizedassets.deno.net';
+export const domain = 'discordkiddo.deno.dev';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = true;
