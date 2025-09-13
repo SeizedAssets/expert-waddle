@@ -1,5 +1,5 @@
 // SERVER DETAILS
-export const domain = 'discordkiddo.deno.dev';
+export const domain = 'seizeduser-glowing-pal-58.deno.dev';
 export const fullDomain = `https://${domain}`;
 export const proxies: string[] = [];
 export const fakeQr = false;
